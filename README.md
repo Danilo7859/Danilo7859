@@ -6,15 +6,20 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre mí**
+## **Sobre mí**
 
 <br>
 
 -🔭 Full Stack Developer Jr. en DoClio (sector salud)
+
 -🏗️ Participé en el diseño y desarrollo de QuerermeKatiar – E-commerce basado en microservicios
+
 -🌱 En formación continua en DevOps, Docker y despliegue de aplicaciones
+
 -🎓 Tecnólogo en Análisis y Desarrollo de Software – SENA
+
 -📍 Medellín, Colombia 🇨🇴
+
 -📫 Contacto: daniiofficial823@gmail.com
 
 <br><br>
