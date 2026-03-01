@@ -12,13 +12,12 @@
 
 <br>
 
-- 🔭 Full Stack Developer Jr. en **DoClio** (sector salud)
-- 🏗️ Creador de **QuerermeKatiar** – E-commerce con microservicios
-- 🌱 Actualmente profundizando en **Spring Boot & Arquitectura de Microservicios**
-- 🎓 Tecnólogo en Análisis y Desarrollo de Software – **SENA**
-- 📍 Medellín, Colombia 🇨🇴
-- 📫 Contáctame: **daniiofficial823@gmail.com**
-- ⚡ Fun fact: Le meto mass con cafecito paisa ☕
+-🔭 Full Stack Developer Jr. en DoClio (sector salud)
+-🏗️ Participé en el diseño y desarrollo de QuerermeKatiar – E-commerce basado en microservicios
+-🌱 En formación continua en DevOps, Docker y despliegue de aplicaciones
+-🎓 Tecnólogo en Análisis y Desarrollo de Software – SENA
+-📍 Medellín, Colombia 🇨🇴
+-📫 Contacto: daniiofficial823@gmail.com
 
 <br><br>
 
