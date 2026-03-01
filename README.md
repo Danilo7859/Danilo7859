@@ -1,14 +1,12 @@
 <h1 align="center"><b>Hey! Soy Danilo Sánchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola!+Bienvenido+a+mi+perfil+👋;Full+Stack+Developer+desde+Medellín+🇨🇴;Java+|+Spring+Boot+|+React+|+NestJS;Apasionado+por+el+código+limpio+✨;Siempre+aprendiendo+algo+nuevo..+🚀"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola!+Bienvenido+a+mi+perfil+👋;Full+Stack+Developer+desde+Medellín+🇨🇴;Java+|+Spring+Boot+|+React+|+NestJS;Apasionado+por+el+código+limpio;Siempre+aprendiendo+algo+nuevo.."></a>
 </p>
 
 <br>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre mí**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px></picture>
 
 <br>
 
@@ -99,7 +97,7 @@
 ## 💼 Experiencia
 
 <details>
-<summary><b>🏥 Full Stack Developer – DoClio (Sector Salud)</b></summary>
+<summary><b>Full Stack Developer – DoClio (Sector Salud)</b></summary>
 <br>
 
 > **Mayo 2024 – Presente** | Medellín, Colombia
@@ -117,7 +115,7 @@
 
 <br>
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <details>
 <summary><b>🛒 QuerermeKatiar – E-commerce con Gestión de Domicilios</b></summary>
@@ -167,7 +165,7 @@
 <br>
 <br>
 
-## <b> Conectemos..! 🤝</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b> Conectemos!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
 <div align='left'>
 
@@ -214,8 +212,6 @@
 
 <div align='center'>
 
-## <b>Desde Medellín para el mundo 🌎☕ ¡Vamos con mass! 🚀✨</b>
-
 </div>
 
 <br>
@@ -223,8 +219,6 @@
 <br>
 
 <div align="center">
-
-### ⭐ Si te gusta lo que ves, no olvides dejar tu star! ⭐
 
 </div>
 
