@@ -177,7 +177,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/danilo-sanchez-6358a3368" target="_blank">
+<a href="www.linkedin.com/in/danilo-sánchez-osorio-6358a3368" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Danilo%20Sánchez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
